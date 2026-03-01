@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 
+      这就是 AndroidManifest.xml 正在寻找的基础主题。
+      我们使用一个非常基础的 Theme.AppCompat.DayNight.DarkActionBar 主题
+    -->
+    <style name="Theme.Detectinputdevice" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- 在这里可以自定义颜色，但我们先保持简单 -->
+    </style>
+</resources>
